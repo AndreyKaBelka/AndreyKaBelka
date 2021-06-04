@@ -1,6 +1,6 @@
 <!-- Description -->
 
-Hi there, my name is Andrey and I wanna be a Software Developer
+Hi there, my name is Andrey and I am Java Software Developer
 <!-- Badges -->
 [![Telegram](https://img.shields.io/static/v1?logo=Telegram&logoColor=26A5E4&message=Profile&label=Telegram)](https://t.me/ctrelecs_ondrey)
 [![Twitter](https://img.shields.io/static/v1?logo=Twitter&label=Twitter&message=Profile)](https://twitter.com/CtrlOndrey)
