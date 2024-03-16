@@ -1,7 +1,7 @@
 <!-- Description -->
 
 # Hi there,  I\`m Andrey
-Java Software Developer
+Java/Scala Software Developer
 <!-- Badges -->
 [![Telegram](https://img.shields.io/static/v1?logo=Telegram&logoColor=26A5E4&message=Profile&label=Telegram)](https://t.me/ctrelecs_ondrey)
 [![Twitter](https://img.shields.io/static/v1?logo=Twitter&label=Twitter&message=Profile)](https://twitter.com/CtrlOndrey)
